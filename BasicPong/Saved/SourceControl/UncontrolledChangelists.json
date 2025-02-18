@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/StarterContent/Props/MaterialSphere.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Maps/Map_SideScroller.umap",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Maps/Map_Static.umap",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Pong_Controller.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Pong_GM.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/PlayerPaddle.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Pong_Ball.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Wall_BP.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Bounds.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/EnemyPaddle.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/PongHUD.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/BackgroundMusic.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/PongNoises.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/ping_pong_8bit_beeep.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/ping_pong_8bit_peeeeeep.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/ping_pong_8bit_plop.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/ping-pong-classic-arcade-game-116818_01.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/PongGoal.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Paddle_Struct.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Waifu_background.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Waifu_background_Mat.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Background_Pong.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Waifu_background_Brush.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Pickup_BP.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Pickup_Type_ENUM.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/PickupSpawn_BP.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Maps/MenuMap.umap",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Menu_UMG.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Panic.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Panic_Font.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Menu_PC.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Menu_GM.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Maps/Pong_Map.umap",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/animeace2_reg.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/animeace2_reg_Font.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Pong_GI.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Statistics_Struct.uasset",
+				"D:/Unreal Engine/Projects/BrickBreaker/Content/Pong_SavedGame.uasset"
+			]
+		}
+	]
+}
